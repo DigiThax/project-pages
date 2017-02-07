@@ -1,5 +1,5 @@
 # Site settings
-title: Rider Assistance HUD - A Heads-Up Display for Motorcyclists
+title: Rider Assist HUD  A Heads-Up Display for Motorcyclists
 description: "A Blog on my upcoming Project"
 url: "https://digithax.github.io"
 
@@ -16,7 +16,7 @@ logo: /project-pages/img/DigiThax.png
 github_username:  DigiThax
 project_repository: project-pages
 disqus_shortname: project-pages
-g-analytics: 
+g-analytics:
 altmetric: true
 
 # Build settings
@@ -60,12 +60,12 @@ prose:
         field:
           element: "text"
           label: "Project"
-          value: ""           
+          value: ""
     _posts:
       - name: "subtitle"
         field:
           element: "text"
-          label: "Sub-Title (Short Description)"
+          label: "Sub-Title (Concept)"
           value: ""
       - name: "layout"
         field:
@@ -102,7 +102,7 @@ prose:
         field:
           element: "text"
           label: "Project"
-          value: ""    
+          value: ""
       - name: "horizontal"
         field:
           element: "hidden"
@@ -126,13 +126,13 @@ prose:
             - name: "Blood"
               value: "blood"
             - name: "Moon"
-              value: "moon"          
+              value: "moon"
             - name: "Night"
               value: "night"
             - name: "Sky"
               value: "sky"
             - name: "Solarized"
-              value: "solarized"             
+              value: "solarized"
       - name: "trans"
         field:
           element: "select"
@@ -144,13 +144,13 @@ prose:
             - name: "Page"
               value: "page"
             - name: "Concave"
-              value: "concave"          
+              value: "concave"
             - name: "Linear"
               value: "linear"
             - name: "Fade"
               value: "fade"
             - name: "None"
-              value: "none"             
+              value: "none"
       - name: "visualworkflow"
         field:
           element: "checkbox"

@@ -1,17 +1,17 @@
 ---
 layout:     	slide
 title:     		New Presentation
-author:     	Ahmet Cecen
+author:     	DigiThax
 tags:           presentation template
 subtitle:    	Some Short Description of Presentation
 
-theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
+theme:		sky # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none
 
 horizontal:	</section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 vertical:		</section><section markdown="1">
 ---
-<section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+<section markdown="1" data-background="http://digithax.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}
 
 <hr>
@@ -25,11 +25,11 @@ vertical:		</section><section markdown="1">
 
 ## F11 to Fullscreen!
 
-Showcasing Presentation Features. This template is ideal for very quickly creating decent presentations when content and simplicity is more important than excessive styling. 
+Showcasing Presentation Features. This template is ideal for very quickly creating decent presentations when content and simplicity is more important than excessive styling.
 
 {{ page.horizontal }}
 
-Seperate with {% raw  %}{{ page.horizontal }}{% endraw %} between content for horizontal slides.
+Seperate with {% raw  %}{{ page.horizontal }}{% endraw %} Wazaaaap?
 
 {{ page.vertical }}
 
@@ -75,7 +75,7 @@ $$ A = \pi r^2 $$
 
 2. Item 2
 
-3. Item 
+3. Item
 
 {{ page.horizontal }}
 
