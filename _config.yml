@@ -1,5 +1,5 @@
 # Site settings
-title: Rider Assist HUD  A Heads-Up Display for Motorcyclists
+title: Rider Assist HUD A Heads-Up Display for Motorcyclists
 description: "A Blog on my upcoming Project"
 url: "https://digithax.github.io"
 
@@ -40,7 +40,7 @@ defaults:
 
 # Prose Settings
 prose:
-  ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
+  ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','Licenses.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
   siteurl: 'http://digithax.github.io/project-pages/'
   ispp: true
   media: 'img'
