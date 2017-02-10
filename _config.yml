@@ -75,6 +75,8 @@ prose:
           options:
             - name: "Post"
               value: "post"
+            - name: "Post"
+              value: "post"
             - name: "Slide"
               value: "slide"
             - name: "Projector"

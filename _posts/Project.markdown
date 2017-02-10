@@ -1,11 +1,9 @@
 ---
-layout:     RA-HUD
+layout:     post
 title:      Rider Assist HUD
 author:     DigiThax
-tags: 		RA-HUD
-subtitle:   Brief Summary of the Project
-category:  project1
+tags: 		post template
+subtitle:   Brief Summary of the Project  
 
-notebookfilename: intro
-visualworkflow: true
+category:  project1
 ---

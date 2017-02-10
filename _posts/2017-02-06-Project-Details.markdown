@@ -3,7 +3,7 @@ layout:     post
 title:      Project
 author:     DigiThax
 tags: 		post template
-subtitle:  	Some Short Description of Post
+subtitle:  	A Short Description of the Project
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
@@ -19,8 +19,7 @@ category:  project1
  *Topic:*  
 *Rider Assistance HUD: A Heads-Up Display for Motorcyclists*  
 
- *Purpose:*
--To make it open source for anyone to access  
--To create a final working product that is as affordable  
+ *Purpose:*  
+-To create a final working product that is as affordable as possible  
 -To make it simple enough for anyone to make one  
--To encourage people to start wearing helmets **#3rdworldproblems**
+-To encourage people to start wearing helmets
