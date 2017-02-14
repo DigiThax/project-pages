@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Project
+title:      Helmet Mounted Heads-Up Display
 author:     DigiThax
 tags: 		post template
-subtitle:  	A Short Description of the Project
+subtitle:  	Click to learn more about it!
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
@@ -28,7 +28,7 @@ category:  project1
 ### Project:  
 To Build an affordable, DIY Heads-Up Display for Motorcyclists
 
-  
+
 ### Project Goal:
 To encourage young people to wear helmets by appealing their sense of technology with a helmet HUD
 

@@ -3,6 +3,7 @@ layout:     	slide
 title:     		Concept
 author:     	DigiThax
 tags:           presentation template
+date:  07-Feb-2017
 subtitle:    	A run-down of the ideas and concepts of the project
 
 
@@ -21,9 +22,14 @@ vertical:		</section><section markdown="1">
 
 #### {{ page.author }}
 
-#### {{ page.date | | date: "%I %M %p ,%a, %b %d %Y"}}
+#### {{ page.date | | date: "%b %d %Y"}}
+<!--#### {{ page.date | | date: "%I %M %p ,%a, %b %d %Y"}}-->  
 
 {{ page.horizontal }}
 <!-- Start Writing Below in Markdown -->
 
 ## F11 to Fullscreen!
+
+{{ page.horizontal}}  
+
+## Plug the ELM scanner to the Bike
