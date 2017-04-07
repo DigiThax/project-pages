@@ -5,4 +5,5 @@ description: "***********************************"
 header-img: "img/home-bg.jpg"
 ---
 
-This Blog is intended as a platform for people (including me :D) to post their open source projects for the world to see
+This Blog is made with the intentions to teach you how to build your own Helmet mounted Heads-Up Display.  
+This should also serve as a platform for experienced tikerers to develop and improve this project.

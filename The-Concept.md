@@ -18,7 +18,7 @@ vertical:		</section><section markdown="1">
 <section markdown="1" data-background="http://digithax.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}
 
-<hr>
+
 
 #### {{ page.author }}
 
@@ -32,4 +32,28 @@ vertical:		</section><section markdown="1">
 
 {{ page.horizontal}}  
 
-## Plug the ELM scanner to the Bike
+## Plug the ELM327 Obd2 scanner to the OBD2 Port on the Bike
+
+{{ page.vertical}}
+
+## Connect to the scanner via Bluetooth
+
+{{page.horizontal}}
+
+## Algorithm should run 'AT command' checklist to verify interface
+
+{{page.horizontal}}
+
+## Program once syncs with ecu baud rate,initiates the Program
+
+{{page.vertical}}
+
+## pid codes are sent and corresponding data is recieved
+
+{{page.horizontal}}
+
+## data is converted to valuable information and is displayed to the rider
+
+{{page.horizontal}}
+
+## process is repeated
